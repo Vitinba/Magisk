@@ -1,6 +1,6 @@
-# Magisk Changelog
+Magisk Changelog
 
-### v23.0
+### v24.0
 
 - [App] Update snet extension. This fixes SafetyNet API errors.
 - [App] Fix a bug in the stub app that causes APK installation to fail
